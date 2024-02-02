@@ -1,9 +1,7 @@
 # CURSO DE C++
 👨‍⚖️C++ É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS&si=o8AMHHmWGYZdFdz-)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
@@ -809,4 +807,9 @@ Esses exemplos ilustram os quatro pilares da Programação Orientada a Objetos e
 
 8. **Outras Diferenças**:
    - C++ introduziu várias outras diferenças e recursos em relação a C, como construtores e destrutores de objetos, manipulação de exceções, templates (modelos), referências, entre outros.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "DAVES TECNOLOGIA"](https://youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS&si=o8AMHHmWGYZdFdz-)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170)
 
